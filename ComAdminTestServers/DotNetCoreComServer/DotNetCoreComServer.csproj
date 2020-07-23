@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <!-- Indicate the assembly is providing a COM server -->
+    <EnableComHosting>True</EnableComHosting>
+  </PropertyGroup>
+
+</Project>

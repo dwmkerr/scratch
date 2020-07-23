@@ -1,0 +1,18 @@
+// NativeAtlComServer.idl : IDL source for NativeAtlComServer
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (NativeAtlComServer.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(00000000-0000-0000-C0C0-000000000001),
+	version(1.0),
+]
+library NativeAtlComServerLib
+{
+	importlib("stdole2.tlb");
+};
+
