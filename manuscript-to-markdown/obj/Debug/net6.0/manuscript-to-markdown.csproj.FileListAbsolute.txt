@@ -1,0 +1,15 @@
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/bin/Debug/net6.0/manuscript-to-markdown
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/bin/Debug/net6.0/manuscript-to-markdown.deps.json
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/bin/Debug/net6.0/manuscript-to-markdown.runtimeconfig.json
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/bin/Debug/net6.0/manuscript-to-markdown.dll
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/bin/Debug/net6.0/manuscript-to-markdown.pdb
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.csproj.AssemblyReference.cache
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.AssemblyInfoInputs.cache
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.AssemblyInfo.cs
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.csproj.CoreCompileInputs.cache
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.dll
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/refint/manuscript-to-markdown.dll
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.pdb
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/manuscript-to-markdown.genruntimeconfig.cache
+/Users/dwmkerr/repos/scratch/manuscript-to-markdown/obj/Debug/net6.0/ref/manuscript-to-markdown.dll
