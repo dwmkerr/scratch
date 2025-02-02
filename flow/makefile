@@ -18,5 +18,9 @@ test: # Run the flow tests.
 install: # Install the flow command.
 	sudo ln -s -f $$(pwd)/flow.py /usr/local/bin/flow
 
+.PHONY: link-flow-config
+link-flow-config: # Link local flow config to config in the repo.
+	ln -s -f $$(pwd)/flow.md $${HOME}/.flow.md
+
 install-debug: # Install the flow command in debug mode.
 	ln -s X X
