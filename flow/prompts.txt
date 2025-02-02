@@ -1,0 +1,29 @@
+Good script. See my markdown below. Update it to default to the file at (in order):
+
+~/.flow.md ./flow.md
+
+Update the script to use the markdown checkbox to determine whether or not to show the commads. Below the heading, write +2 hidden (e.g. if two commands hidden). The script didn't show my later command bindings, please add them.
+
+Update the script so that I can move the cursor up and down, there should be a prompt a the bottom starting with ":" that enables me to enter commands as well. The only command is "q" for quit. Above the prompt note the available commands.
+
+Here's the updated markdown
+
+## Global
+
+- [x] ⌘ + Enter: Toggle iTerm fullscreen
+- [x] ⌥ + Space: Show/Hide iTerm
+- [ ] ^ + Space: Switch input (e.g. UK -> Chinese)
+- [x] ⌘ + Y: OpenAI 
+
+## Chrome
+
+- [x] ⌘ + Shift + L - Auto-login (bitwarden)
+
+
+## Vim
+
+- [x] ^ + P - fzf search
+
+## Tmux
+
+- [x] ^B + ? - show help
